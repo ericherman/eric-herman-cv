@@ -1,0 +1,145 @@
+Eric K. Herman
+eric.herman@gmail.com
+https://mas.to/@eric_herman
+Residence: Utrecht, Netherlands
+Citizenship: Netherlands
+
+Experience:
+
+Foundation for Public Code
+https://publiccode.net/
+Keizersgracht 617, 1017 DS, Amsterdam, Netherlands
+Jul 2019 through Present
+Lead Codebase Steward
+supervisor: Boris van Hoytema
+            https://www.linkedin.com/in/borisvanhoytema/
+ * Improve the Standard for Public Code
+ * Evaluate codebases, tests, and documentation relative to the standard
+ * Coach codebase communities to establish self governance
+ * Facilitate creation of technical steering groups
+ * Enable codebase communities to grow, organize and build together
+ * Provide tools, skills, and answers for users, vendors, and developers
+ * Speak at conferences and represent the Foundation for Public Code
+
+Booking.com
+https://booking.com/
+Herengracht 597, 1017 CE, Netherlands
+February 2010 through June 2019
+Principal Developer, core infrastructure
+supervisor: Mikhail Dutikov
+            https://www.linkedin.com/in/mikhail-dutikov/
+ * Help define technical direction and communicate technical vision
+ * Work with the business to define high impact features
+ * Identify areas of technical risk, propose and implement solutions
+ * Lead efforts related database scaling and sharding
+ * Responsible for entire lifecycle
+      Feature scoping, designing, coding, testing, deploying, monitoring
+ * Slice features into tasks which can be completed and deployed in days
+ * Data analysis to provide insights into unexpected trends in metrics
+ * Mentor and coach team members in professional development
+ * Interviewing, hiring, performance assessment, compensation management
+ * Founded the BigData team, brought Hadoop into production
+ * Lead the team which launched tablet site
+ * Represent Booking.com as Chairman of the Board of the MariaDB Foundation
+      https://mariadb.org/about/governance/
+ * Core technologies: Perl, MySQL/MariaDB, C/C++, Java, Golang
+
+MySQL, Inc. / Sun Microsystems
+June 2004 through January 2010
+Senior Software Engineer
+supervisor: Gary Whizin
+            https://www.linkedin.com/in/garywhizin/
+ * Member of distributed development team from many countries
+      (telecommute ~95% time)
+ * Senior Developer on Enterprise Tools team's
+      "MySQL Enterprise Monitor"
+ * Primary developer for "Connector/MXJ"
+      (Java encapsulation of the platform dependence of mysqld)
+ * Secondary developer for "Federated" mysqld storage engine
+ * Secondary developer for "Connector/J" JDBC driver
+ * Free Software, Scrum process, Java, C/C++, JNI, Eclipse, JUnit,
+      Jakarta-Tomcat
+
+ProductSight Corporation
+August 2000 through June 2004
+XP Java Developer
+supervisor: Bruce Winegarden
+            https://www.linkedin.com/in/bruce-winegarden-470881/
+ * Member of a 5 person "eXtreme Programming" development team
+ * Work closely with on-site customer to refine feature specs
+ * Test-first, pair-programming, collective code ownership,
+      refactoring, design patterns, continuous integration, etc.
+ * Java, Servlets, JSP, threading, custom object-relational mapping (Oracle)
+ * Unit tests with JUnit, acceptance/specification tests with HttpUnit
+
+Robert Half International Consulting
+October 1997 through July 2000
+Network Support Specialist
+ * Member of an 8 person team supporting 6,000 users on a LAN/WAN
+ * Support Novell 4.x and NT 4.0 servers, NT 4.0 workstations
+
+Computer Data Systems, Inc.
+December 1995 through July 1997
+Senior Analyst / Programmer
+ * Member of an 8 person team
+ * Support 1,800 LAN/WAN users, 11,000 email users
+ * Build and support Novell 4.x servers
+
+Polygon, Inc.
+February 1994 through November 1995
+Technical Support
+ * Sole technical support person for Polygon's applications
+ * PC/LAN to DEC connectivity, VT terminal emulation
+ * Netware time synchronization
+
+Computer Technology, Inc.
+March 1992 through January 1994
+Systems Integrator
+ * Install and support PC networks for health care management systems
+
+
+Notable Open Source Software and Open Hardware participation:
+
+Stichting Open Electronics Lab
+https://git.openelectronicslab.org/openelectronicslab/
+* Founder
+* Hardware design and firmware contributor
+  http://openelectronicslab.github.io/OpenHardwareExG/
+* Speaker
+  https://archive.fosdem.org/2020/schedule/event/openelectronicslab/
+
+ADFICE_IT
+https://www.amsterdamumc.org/en/research/institutes/amsterdam-public-health/highlights/adfice_it.htm
+* Source code contributor
+  https://github.com/adfice-it/adfice-ace/graphs/contributors
+
+MariaDB Foundation
+https://mariadb.org/about/governance/
+* Chairman of the Board of Directors
+  https://mariadb.org/about/#eric-herman
+
+MariaDB Database
+https://github.com/mariadb/server
+* Source code contributor
+  https://github.com/mariadb/server/commits?author=ericherman
+
+Perl 5 programming language
+https://github.com/perl/perl5
+* Source code contributor
+  https://github.com/Perl/perl5/commits?author=ericherman
+* Release manager
+  https://www.nntp.perl.org/group/perl.perl5.porters/2017/06/msg245055.html
+
+MySQL Database
+https://github.com/mysql/mysql-server
+* Source code contributor
+  ( contributions not reflected in git history, e.g.:
+    https://bugs.mysql.com/bug.php?id=90244 )
+
+FreeSA Server Appliance
+(hardware no longer available)
+https://web.archive.org/web/20081223145715/http://static.freesa.org/
+* Firmware contributor
+  https://web.archive.org/web/20081223134544/http://www.freesa.org/wiki/freesa
+* Hardware contributor
+  https://web.archive.org/web/20081226005457/http://static.freesa.org/WL-700gE/
